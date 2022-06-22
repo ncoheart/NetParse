@@ -14,4 +14,5 @@ func ParseFromCIDR(pre netip.Prefix) []netip.Addr {
 
 	}
 	return lists
+	
 }
